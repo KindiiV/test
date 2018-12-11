@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="choose_city_error">Please choose city</string>
+    <string name="temperature">Temperature</string>
+    <string name="relative_humidity">Relative humidity</string>
+    <string name="sunset_time">Sunset time</string>
+    <string name="sunrise_time">Sunrise time</string>
+    <string name="title_activity_main">Map</string>
+    <string name="change_city">Change City</string>
+</resources>
